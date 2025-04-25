@@ -1,0 +1,23 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63959:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/Week 12 personInfo
+What is your person's first name?
+Bob
+What is your person's last name?
+Smith
+What is your person's gender?
+male
+What is your person's ethnicity?
+white
+What is your person's religion?
+Christian
+What is your person's age?
+54
+What is your person's weight?
+200
+What is your person's height?
+72
+First Name : Bob Last Name : Smith
+Gender : male Ethnicity : white
+Religion : ChristianAge : 54
+Weight : 200 Height : 72
+
+Process finished with exit code 0
